@@ -1,0 +1,5 @@
+MDK-ARM/DebugConfig/
+MDK-ARM/Ethernet_ENC28J60/
+MDK-ARM/*.scvd
+MDK-ARM/*.User
+
